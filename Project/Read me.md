@@ -1,0 +1,6 @@
+To run the  codes, Change the text file in Process.py
+  this will generate word list.txt and list.txt
+Run Testing.py
+  This will generate listseed_set.txt
+
+then run the run.sh file by appropriately commenting and ensuring that the directed files exists.
